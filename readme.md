@@ -2,8 +2,6 @@
 
 A modern, responsive portfolio website built with HTML5, CSS3, Bootstrap 5, and JavaScript. Features a clean design with smooth animations and interactive elements.
 
-## 🚀 Live Demo
-[View Live Demo](#) (Add your live link here)
 
 ## 📋 Table of Contents
 - [Technologies Used](#technologies-used)
