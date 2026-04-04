@@ -4,13 +4,13 @@ A modern, responsive portfolio website built with HTML5, CSS3, Bootstrap 5, and 
 
 
 ## 📋 Table of Contents
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [Customization](#customization)
-- [Browser Support](#browser-support)
-- [Credits](#credits)
+- [Technologies Used](technologies-used)
+- [Features](features)
+- [Project Structure](project-structure)
+- [Setup Instructions](setup-instructions)
+- [Customization](customization)
+- [Browser Support](browser-support)
+- [Credits](credits)
 
 ## 🛠️ Technologies Used
 
