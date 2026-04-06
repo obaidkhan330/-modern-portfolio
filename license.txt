@@ -1,0 +1,92 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Template Name: modren-portfolio
+File: Licence
+Author: TS-DEV Private Limited
+Author URI: https://www.ts-developers.com/
+Licence URI: https://www.ts-developers.com/template-terms
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+IPR
+---
+
+All Intellectual Property Rights (IPR) belong to and remain the exclusive property of TS-DEV Private Limited and its respective owner(s).
+
+
+PREMIUM LICENCE TERMS
+----------------------
+
+This is a paid (premium) licence. By purchasing this template, you are granted the following rights:
+
+    * You are allowed to use this template for both personal and commercial projects.
+
+    * You are allowed to modify, customize, and adapt the template according to your project needs.
+
+    * You are allowed to use this template for client projects without any attribution requirement.
+
+    * You are allowed to remove or modify footer credit links after purchasing this premium licence.
+
+    * You may use the template on multiple projects depending on your purchased licence plan.
+
+RESTRICTIONS
+------------
+
+    * You cannot resell, redistribute, or share this template (modified or unmodified) in any form.
+
+    * You cannot claim this template as your own intellectual property.
+
+    * You cannot include this template in any product, bundle, or marketplace listing for resale.
+
+    * You cannot convert or port this template into CMS, themes, or frameworks for resale or distribution.
+
+    * You are not allowed to share this template publicly (e.g., GitHub, websites, CDs, etc.).
+
+
+ATTRIBUTION
+-----------
+
+    * Attribution is NOT required under this premium licence.
+
+    * You are free to remove or modify any credit links in the footer or source code.
+
+    * However, keeping credit is appreciated but not mandatory.
+
+
+COPYRIGHT & LEGAL
+------------------
+
+All templates and digital assets provided by TS-DEV Private Limited are protected under international copyright laws.
+
+Unauthorized distribution, resale, or misuse of this template will result in legal action.
+
+TS-DEV Private Limited reserves the right to take strict legal action against any violation of these terms.
+
+The default footer link may be changed to:
+
+    Code by TS-DEV Private Limited
+    <p class="fl_right">Code by <a href="https://www.ts-developers.com/" title="Paid Website Templates">TS-DEV Private Limited</a></p>
+
+    Design by TS-DEV Private Limited
+    <p class="fl_right">Design by <a href="https://www.ts-developers.com/" title="Paid Website Templates">TS-DEV Private Limited</a></p>
+
+    Thanks to TS-DEV Private Limited
+    <p class="fl_right">Thanks to <a href="https://www.ts-developers.com/" title="Paid Website Templates">TS-DEV Private Limited</a></p>
+
+For companies or individuals that wish to add their information to the template footer please feel free to modify the link as such:
+
+    Website by YOURDETAILS & TS-DEV Private Limited
+    <p class="fl_right">Website by <a href="YOURURL">YOURDETAILS</a> & <a href="http://www.ts-developers.com/" title="Paid Website Templates">TS-DEV Private Limited</a></p>
+
+
+
+PROJECT INFO
+------------
+
+Project Name: [Modren-portfolio]
+Purchase Link: [https://wa.me/923075630721?text=Hello%2C+I+want+to+buy+the+plan%3A+advance+for+project+modern-portfolio.+Current+page%3A+https%3A%2F%2Fts-developers.com%2Fprojects%2Fmodern-portfolio-4196488.+Please+provide+me+the+details.]
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
